@@ -10,6 +10,8 @@
 </div>
 
 ###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vyankateshwartaikar&show_icons=true&locale=en&layout=compact" 
+alt="vyankateshwartaikar" /></p>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
