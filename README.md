@@ -18,9 +18,18 @@
 - 📫 How to reach me **https://hashnode.com/@vtaikar**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vyankateshwar-taikar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vyankateshwar-taikar/" height="30" width="40" /></a>
-</p>
+###
+
+<div align="center">
+<a href="https://www.linkedin.com/in/vyankateshwar-taikar/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
+<a href="https://hashnode.com/@vtaikar" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Hashnode&logo=medium&label=&color=&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo" />
+</a>
+</div>
+
+###
 
 <h3 align="left">🛠 Language and tools</h3>
 
