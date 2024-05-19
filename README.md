@@ -18,7 +18,6 @@
 - 📫 How to reach me **https://hashnode.com/@vtaikar**
 
 <h3 align="left">Connect with me:</h3>
-###
 
 <div align="center">
 <a href="https://www.linkedin.com/in/vyankateshwar-taikar/" target="_blank">
