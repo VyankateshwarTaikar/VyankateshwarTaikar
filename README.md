@@ -45,13 +45,18 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
 <img width="12" />
+<img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo" />
+<img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo" />
 <img width="12" />
@@ -67,5 +72,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyankateshwartaikar&label=Profile%20views&color=0e75b6&style=flat" alt="vyankateshwartaikar" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vyankateshwartaikar&show_icons=true&locale=en" alt="vyankateshwartaikar" /></p>
-
-
