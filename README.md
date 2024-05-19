@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Cloud & DevOps**
 
-- 📫 How to reach me **https://hashnode.com/@vtaikar**
+
 
 <h3 align="left">Connect with me:</h3>
 
